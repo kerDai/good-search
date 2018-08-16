@@ -1,0 +1,7 @@
+spring:
+  elasticsearch:
+    jest:
+      uris: http://192.168.100.17:9200
+      read-timeout: 5000
+      username:
+      password:
